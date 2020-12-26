@@ -1,0 +1,5 @@
+numpy==1.19.2
+opencv==4.5.0
+imutils==0.5.3
+scikit-image==0.17.2
+fpdf==1.7.2
